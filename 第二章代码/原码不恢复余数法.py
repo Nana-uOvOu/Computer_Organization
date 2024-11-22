@@ -61,5 +61,5 @@ def compare_large(a,b):
 
 if __name__ == "__main__":
     a = binary_utils.BinaryNum("0010101")
-    b = binary_utils.BinaryNum("0011110")
+    b = binary_utils.BinaryNum("1111110")
     print(divide(a,b))

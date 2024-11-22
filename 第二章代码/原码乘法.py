@@ -53,5 +53,5 @@ def right_move(a):
 
 
     
-print(mul('01101','11011'))
+print(mul('011001','010001'))
 

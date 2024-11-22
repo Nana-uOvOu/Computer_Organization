@@ -53,7 +53,7 @@ def compare_large(a,b):
 
 
 if __name__ == "__main__":
-    a = binary_utils.BinaryNum("111011")
-    b = binary_utils.BinaryNum("111101")
+    a = binary_utils.BinaryNum("0010101")
+    b = binary_utils.BinaryNum("1111110")
     d = divide(a,b)
     print(f"商为{d}")
